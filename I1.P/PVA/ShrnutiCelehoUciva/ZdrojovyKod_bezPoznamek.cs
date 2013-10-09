@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 /*
  * Shrnurí učiva za školní rok 2012 / 2013
- * Autor: Filip Šedivý <filip.sedivy@email.cz>
+ * Autor: Filip Šedivý <mail@filipsedivy.cz>
  * Licence: GNU GPL 2 -> http://www.gnu.org/licenses/gpl-2.0.html
  * Verze: 1.0
  */
