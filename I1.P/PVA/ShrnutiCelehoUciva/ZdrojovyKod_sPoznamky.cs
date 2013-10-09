@@ -17,7 +17,7 @@ using System.Threading.Tasks;
  * Uložení hodnot do proměnné
  * Cykly - Do, While, For
  * Přiřazování hodnot k proměnným
- * Inkrementace a Dekremntace
+ * Inkrementace a Dekrementace
  * Operátory
  * Switch
  * Metody
