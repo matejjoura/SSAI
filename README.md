@@ -1,4 +1,18 @@
-SŠAI - Střední škola automobilní a informatiky
-====
+Střední škola automobilní a informatiky
+=======
 
-Zdrojové kódy k hodin výuky jsou roztříděny do složek a podsložek podle hodiny.
+Aktuálně jsou zde zdrojové kódy k C# a HTML.
+
+
+2. ročník
+-------
+* C#
+ * [Dvourozměrné pole](I2.A/PVA/DvourozmernePole.cs)
+* HTML
+ * [Základní struktura webu](I2.A/WWW/zakladniStruktura.html)
+
+
+1. ročník
+-------
+* C#
+ * [Shrnutí celého učiva](I1.P/PVA/ShrnutiCelehoUciva/)
