@@ -67,14 +67,14 @@ namespace _004_Test
             Console.WriteLine("Součet čísel: {0}", soucet);
 
             /*
-                * Skupina B
-                * 
-                * 1.) Najděte minimum z 2 řádku (1 index)
-                * 2.) Součet sudých čísel z 3 sloupce (2 index)
-                */
+            * Skupina B
+            * 
+            * 1.) Najděte minimum z 2 řádku (1 index)
+            * 2.) Součet sudých čísel z 3 sloupce (2 index)
+            */
 
-                //1 
-                Console.WriteLine("\n====== Nejmenší číslo ======");
+            //1 
+            Console.WriteLine("\n====== Nejmenší číslo ======");
             int minimum = pole[1, 0]; // Nezapomenout!
             for (int z = 0; z < s; z++)
                 if (minimum > pole[1, z])
